@@ -10,7 +10,7 @@ getting the work done, teaching complex topics and writing about stuff.
 
 ### What kind of work am I interested in ?
 
-I believe the tools one work with do not matter as much as the goal, spirit and impact of the project.
+I believe the tools we use do not matter as much as the final product.
 I'm very open minded with tech stacks.
 
 But if you want to know, here are my favorite languages and techs:
