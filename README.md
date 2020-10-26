@@ -14,14 +14,11 @@ I believe the tools we use do not matter as much as the final product.
 I'm very open minded with tech stacks.
 
 But if you want to know, here are my favorite languages and techs:
-- Languages
+#### Languages
   JS & TS, Python, Java, C & C++, Rust (but I'm no expert)
-- Techs
-  - Front
-    - Godot Engine, React, Templating engines, Vanilla web (html/CSS)
-  - Server (real time is a +)
-    - Node.js, Java, PHP (Symfony)
-  - DB (very much not a deal breaker to me)
-    - MySQL, MongoDB
+#### Techs
+**Front**: Godot Engine (for games), React, Templating engines, Vanilla web (html/CSS)
+**Server**: Node.js (Rest, real time), Java (TCP), PHP (MVC with Symfony)
+**DB**: MySQL, MongoDB
 
 If you've got any project to talk to me about, do not hesitate!
