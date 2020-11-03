@@ -1,7 +1,7 @@
 # About me
 ### Looking for a 3+ months fullstack programmer internship starting in April 2021
 
-My name is Anicet. I'm a 19 year old IT student in Paris France.
+My name is Anicet. I'm a 19 year old IT student in "IUT de Paris" France.
 
 Since childhood I love to come up with new ideas and to work on my very own creative projects.
 
