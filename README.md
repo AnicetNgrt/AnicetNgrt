@@ -8,4 +8,4 @@ Since childhood I love to come up with new ideas and to work on my very own crea
 My two main skills are programming and art. But I often hear I'm good at leading and organizing teams and projects,
 getting the work done, teaching complex topics and writing about stuff.
 
-*Experience: *https://profile.codersrank.io/user/anicetngrt
+Experience: https://profile.codersrank.io/user/anicetngrt
