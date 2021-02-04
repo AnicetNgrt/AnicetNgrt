@@ -8,5 +8,3 @@ My two main skills are programming and art. But I often hear I'm good at leading
 getting the work done, teaching complex topics and writing about stuff.
 
 Experience: https://profile.codersrank.io/user/anicetngrt
-
-[![Anicet's GitHub stats](https://github-readme-stats.vercel.app/api?username=anicetngrt)](https://github.com/anuraghazra/github-readme-stats)
