@@ -9,5 +9,4 @@ getting the work done, teaching complex topics and writing about stuff.
 
 Experience: https://profile.codersrank.io/user/anicetngrt
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnicetNgrt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<!--<td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnicetNgrt&layout=compact"/></td>-->
+<td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnicetNgrt&layout=compact"/></td>
