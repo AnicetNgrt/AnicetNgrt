@@ -34,7 +34,7 @@ EX                                                       -<///// |
 -----------------------------------------------------------------|
 Langages:                                                        |
                                                                  |
-Unreal Engine 4 -> TI Basic -> Javascript -> Python -> C -> C++  |
+Visual Scripting -> TI Basic -> Javascript -> Python -> C -> C++ |
 -> Java -> Typescript -> Godot -> VB .NET -> Rust -> Elixir      |
 -----------------------------------------------------------------|
 Projets persos:                                                  |
