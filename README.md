@@ -12,6 +12,7 @@ Experience: https://profile.codersrank.io/user/anicetngrt
 Wakatime: https://wakatime.com/@AnicetNgrt
 
 Timeline [FR] :
+```
 -----------------------------------------------------------------,
  2 0 1 5 | 2 0 1 6 | 2 0 1 7 | 2 0 1 8 | 2 0 1 9 | 2 0 2 0 | 2 0 |
 classes  3e   |    S    |    PS   |    TS   |   DUT1  |   DUT2   |
@@ -45,3 +46,4 @@ discord) -> FLORE1 (moteur rendu 2D) -> Zugzwang (jeu web multi) |
 -> Plusieurs game jams (jeux 2D) -> Homesynck (software) -> 3W   |
 Sherlocks (webapp)                                               |
 _________________________________________________________________/
+```
