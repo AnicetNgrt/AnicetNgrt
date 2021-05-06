@@ -15,8 +15,8 @@ Timeline [FR] :
 ```
 ,------------------------------------------------------------------,
 |  2 0 1 5 | 2 0 1 6 | 2 0 1 7 | 2 0 1 8 | 2 0 1 9 | 2 0 2 0 | 2 0 |
-| classes  3e   |    S    |    PS   |    TS   |   DUT1  |   DUT2   |
-| projets pr   IC EA RPG SR SR2    MMO INF    FLORE1 ZUG JJJ HS 3W |
+| classes   ... |   2nd   |  1ere S |    TS   |   DUT1  |   DUT2   |
+| projets      IC EA RPG SR SR2    MMO INF    FLORE1 ZUG JJJ HS 3W |
 |                                                                  |
 | UE4          -<///>                                              |
 | TI               - -<//>- -<>-                                   |
