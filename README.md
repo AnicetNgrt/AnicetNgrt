@@ -17,27 +17,24 @@ Timeline [FR] :
 |  2 0 1 5 | 2 0 1 6 | 2 0 1 7 | 2 0 1 8 | 2 0 1 9 | 2 0 2 0 | 2 0 |
 | classes   ... |   2nd   |  1ere S |    TS   |   DUT1  |   DUT2   |
 | projets      IC EA RPG SR SR2    MMO INF    FLORE1 ZUG JJJ HS 3W |
+|------------------------------------------------------------------|
 |                                                                  |
-| UE4          -<///>                                              |
-| TI               - -<//>- -<>-                                   |
-| JS                      -<//> -<///>-<>    -- -- -<//>- --- </// |
-| PY                         - - -       - -<///>--    -</>- -     |
+| UE4 NoCode   -<///>                                              |
+| TI BASIC         - -<//>- -<>-                                   |
+| Javascript              -<//> -<///>-<>    -- -- -<//>- --- </// |
+| Python 3                   - - -       - -<///>--    -</>- -     |
 | C                                           <//<//> -   -</>-    |
 | C++                                           <///>  <//>        |
-| JV                                               <////>-- <////> |
-| TS                                                <///>- -       |
-| GD                                                 <//><///></>  |
-| VB                                                  <//>      -- |
-| RS                                                  -</>      </ |
-| EX                                                       -<///// |
+| Java 8                                           <////>-- <////> |
+| Typescript                                        <///>- -       |
+| Godot (GDScript & GLSL)                            <//><///></>  |
+| VB .NET                                             <//>      -- |
+| Rust                                                -</>      </ |
+| Elixir OTP                                               -<///// |
 |                                                                  |
 |------------------------------------------------------------------|
-| Langages:                                                        |
-|                                                                  |
-| Unreal Engine 4 -> TI Basic -> Javascript -> Python -> C -> C++  |
-| -> Java -> Typescript -> Godot -> VB .NET -> Rust -> Elixir      |
 |------------------------------------------------------------------|
-| Projets persos:                                                  |
+| Projets persos (pas forcément aboutis) :                         |
 |                                                                  |
 | Intersideral Cow (jeu 3D) -> Electronic Apple (jeu 3D multi) ->  |
 | RPGs (jeux calculatrice) -> Sad Robot (jeu web 2D) -> Sad Robot2 |
