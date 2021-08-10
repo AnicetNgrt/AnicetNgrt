@@ -1,6 +1,6 @@
 # About me
 
-My name is Anicet. I'm a 19 year old IT student in "IUT de Paris" France.
+My name is Anicet. I'm a 19 year old CS student in France.
 
 Since childhood I come up with new ideas and work on my very own creative projects.
 
