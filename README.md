@@ -13,6 +13,7 @@ getting the work done, teaching complex topics and writing about stuff.
 
 - ![15%](https://progress-bar.dev/15) Finishing an online strategy board game project featuring a **Sveltekit**+**Typescript** frontend and TBD backend.
 - ![15%](https://progress-bar.dev/15) Improving at **Rust** and **systems programming** by working with the [Rust in Action](https://www.manning.com/books/rust-in-action) book.
+- ![15%](https://progress-bar.dev/15) Learning interpreters and getting better at making parsers by working with the [Crafting Interpreters](https://craftinginterpreters.com) book.
 - ![2%](https://progress-bar.dev/2) Working with **Vulkan** and **C++** to make a very tiny 3D engine.
 - ![0%](https://progress-bar.dev/0) Making more cool **GLSL** shaders as I did in late 2021.
 - ![10%](https://progress-bar.dev/10) Making a small game written in **Go** using the **Ebiten** 2D library.
