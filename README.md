@@ -1,5 +1,9 @@
 # About me
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=anicetngrt&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 My name is Anicet. I'm a 20 year old CS student in France.
 
 Since childhood I come up with new ideas and work on my very own creative projects.
