@@ -16,7 +16,7 @@ getting the work done, teaching complex topics and writing about stuff.
 - ![2%](https://progress-bar.dev/2) Working with **Vulkan** and **C++** to make a very tiny 3D engine.
 - ![0%](https://progress-bar.dev/0) Making more cool **GLSL** shaders as I did in late 2021.
 - ![10%](https://progress-bar.dev/10) Making a small game written in **Go** using the **Ebiten** 2D library.
-- ![2%](https://progress-bar.dev/2) Start to learn **C#** and **.NET**, maybe for backend work ?
+- ![2%](https://progress-bar.dev/2) Learn **C#** and **.NET**, maybe for backend work ?
 - ![0%](https://progress-bar.dev/0) Learn **Unreal Engine** by making a small game as I did back in 2015, but with C++ this time.
 
 # CodersRank charts
