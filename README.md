@@ -13,9 +13,9 @@ getting the work done, teaching complex topics and writing about stuff.
 
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=anicetngrt&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=anicetngrt&badges=10&show-avatar=false&style=--border-radius:3px"
 />
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anicetngrt&skills=JavaScript,TypeScript,Rust,HTML,CSS,C%2B%2B,C,Java"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anicetngrt&skills=JavaScript,TypeScript,Rust,HTML,CSS,C%2B%2B,C,Java&style=--border-radius:3px"
 />
