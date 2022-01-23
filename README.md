@@ -13,7 +13,7 @@ getting the work done, teaching complex topics and writing about stuff.
 
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=anicetngrt&badges=10&show-avatar=false"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=anicetngrt&badges=10&show-avatar=false&style=;"
 />
 
 <img
