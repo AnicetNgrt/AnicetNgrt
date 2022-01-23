@@ -17,5 +17,5 @@ getting the work done, teaching complex topics and writing about stuff.
 />
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anicetnougaret&skills=JavaScript,TypeScript,Rust,HTML,CSS,C%2B%2B,C,Java"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anicetngrt&skills=JavaScript,TypeScript,Rust,HTML,CSS,C%2B%2B,C,Java"
 />
