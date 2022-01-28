@@ -12,7 +12,7 @@ getting the work done, teaching complex topics and writing about stuff.
 <details>
   <summary>2022 goals</summary>
     
-- ![20%](https://progress-bar.dev/20) Finishing my online strategy board game project featuring a **Sveltekit**+**Typescript** frontend and TBD backend.
+- ![20%](https://progress-bar.dev/20) Finishing my online strategy board game project featuring a **Sveltekit**+**TS**+**TailwindCSS** frontend and TBD backend.
 - ![15%](https://progress-bar.dev/15) Improving at **Rust** and **systems programming** by working with the [Rust in Action](https://www.manning.com/books/rust-in-action) book.
 - ![15%](https://progress-bar.dev/15) Learning interpreters and getting better at making parsers by working with the [Crafting Interpreters](https://craftinginterpreters.com) book.
 - ![10%](https://progress-bar.dev/10) Making a small game written in **C++** using the **SFML** library.
@@ -21,11 +21,19 @@ getting the work done, teaching complex topics and writing about stuff.
 - ![0%](https://progress-bar.dev/0) Making more cool **GLSL** shaders as I did in late 2021.
 - ![0%](https://progress-bar.dev/0) Learning **Unreal Engine** by making a small game as I did back in 2015, but with C++ this time.
   
-<details>
+</details>
 
 <details>
-  <summary>Click to expand!</summary>
-<details>
+  <summary>2021 goals review</summary>
+  
+- Laid down foundations for my online strategy board game project featuring a **Sveltekit**+**TS**+**TailwindCSS** frontend and TBD backend.
+- Gave more than 15 in-person basic Computer Science, programming and Web development paid private lessons since september to 3 students.
+- Got better at **Rust** by [studying blockchain implementation](https://github.com/AnicetNgrt/postoi), [making APIs](https://github.com/AnicetNgrt/project_camion), working on a [board game implementation](https://github.com/AnicetNgrt/zugzwang_rust) and studying [parser combinators](https://github.com/AnicetNgrt/parser_combinators).
+- Got better at **C** by studying the [Modern C](https://www.manning.com/books/modern-c) book.
+- Got better at **C++** by studying at INSA Lyon for my first year, with the goal of graduating as a CS engineer in 2024.
+- Learned the **Elixir** language and the **OTP** ecosystem by studying books such as [Elixir in action](https://www.manning.com/books/elixir-in-action-second-edition?query=elixir%20in%20action), [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook?query=The%20Little%20Elixir%20&%20OTP%20Guidebook), and leading a team of 7 student on [a fullstack project featuring a **Phoenix** backend](https://github.com/Homesynck/homesynck-server).
+  
+</details>
   
 # CodersRank charts
 
