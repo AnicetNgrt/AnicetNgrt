@@ -27,7 +27,7 @@ getting the work done, teaching complex topics and writing about stuff.
   <summary>2021 self-review</summary>
   
 - Laid down foundations for my online strategy board game project featuring a **Sveltekit**+**TS**+**TailwindCSS** frontend and TBD backend.
-- Gave more than 15 in-person basic **Computer Science**, **programming** and **Web development** paid **private lessons** since september to 3 students.
+- Gave more than 15 in-person basic **Computer Science**, **programming** and **Web development** paid **private lessons** from September to December to 3 students.
 - Got better at **Graphics programming** and **GLSL Shaders** by [making ray marched mountains](https://www.shadertoy.com/view/stVGDK), [pretty 2D waves shaders](https://www.shadertoy.com/view/flKSzW) and also [trippy stuff](https://www.shadertoy.com/view/flKSzD).
 - Started learning Russian at the university.
 - Made a [strategy/management game](https://nimblebeastscollective.itch.io/inroads) with **Godot Engine** as part of the [Nimble Beasts collective](https://twitter.com/NimbleBeasts).
