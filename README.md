@@ -9,8 +9,9 @@ getting the work done, teaching complex topics and writing about stuff.
 
 # Portfolio: https://anicetnougaret.fr
 
-# 2022 goals
-
+<details>
+  <summary>2022 goals</summary>
+    
 - ![20%](https://progress-bar.dev/20) Finishing my online strategy board game project featuring a **Sveltekit**+**Typescript** frontend and TBD backend.
 - ![15%](https://progress-bar.dev/15) Improving at **Rust** and **systems programming** by working with the [Rust in Action](https://www.manning.com/books/rust-in-action) book.
 - ![15%](https://progress-bar.dev/15) Learning interpreters and getting better at making parsers by working with the [Crafting Interpreters](https://craftinginterpreters.com) book.
@@ -19,13 +20,15 @@ getting the work done, teaching complex topics and writing about stuff.
 - ![2%](https://progress-bar.dev/2) Learning **C#** and **.NET**, maybe for backend work ?
 - ![0%](https://progress-bar.dev/0) Making more cool **GLSL** shaders as I did in late 2021.
 - ![0%](https://progress-bar.dev/0) Learning **Unreal Engine** by making a small game as I did back in 2015, but with C++ this time.
+  
+<details>
 
+<details>
+  <summary>Click to expand!</summary>
+<details>
+  
 # CodersRank charts
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anicetngrt&skills=JavaScript,TypeScript,Rust,Python,HTML,CSS,C%2B%2B,C,Java,Elixir,Svelte&width=640"
-/>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=anicetngrt&badges=0&show-avatar=false&style=--border-radius:0px;&width=640&branding=false"
 />
