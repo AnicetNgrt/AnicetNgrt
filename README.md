@@ -27,11 +27,13 @@ getting the work done, teaching complex topics and writing about stuff.
   <summary>2021 goals review</summary>
   
 - Laid down foundations for my online strategy board game project featuring a **Sveltekit**+**TS**+**TailwindCSS** frontend and TBD backend.
-- Gave more than 15 in-person basic Computer Science, programming and Web development paid private lessons since september to 3 students.
+- Gave more than 15 in-person basic **Computer Science**, **programming** and **Web development** paid **private lessons** since september to 3 students.
 - Got better at **Rust** by [studying blockchain implementation](https://github.com/AnicetNgrt/postoi), [making APIs](https://github.com/AnicetNgrt/project_camion), working on a [board game implementation](https://github.com/AnicetNgrt/zugzwang_rust) and studying [parser combinators](https://github.com/AnicetNgrt/parser_combinators).
 - Got better at **C** by studying the [Modern C](https://www.manning.com/books/modern-c) book.
 - Got better at **C++** by studying at INSA Lyon for my first year, with the goal of graduating as a CS engineer in 2024.
 - Learned the **Elixir** language and the **OTP** ecosystem by studying books such as [Elixir in action](https://www.manning.com/books/elixir-in-action-second-edition?query=elixir%20in%20action), [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook?query=The%20Little%20Elixir%20&%20OTP%20Guidebook), and leading a team of 7 student on [a fullstack project featuring a **Phoenix** backend](https://github.com/Homesynck/homesynck-server).
+- Experienced my first internship as a fullstack software engineering intern at **Coddity**.
+- **Graduated from my 2 year Computer Science degree** at Université de Paris.
   
 </details>
   
