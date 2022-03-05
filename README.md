@@ -42,7 +42,7 @@ getting the work done, teaching complex topics and writing about stuff.
   
 </details>
   
-# CodersRank charts
+### Language proficiency chart
 
 <img
   height="400"
