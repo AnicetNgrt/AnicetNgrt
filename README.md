@@ -14,7 +14,7 @@ getting the work done, teaching complex topics and writing about stuff.
 
 - ![100%](https://progress-bar.dev/100) Making [a Svelte web app](http://farfaraway.surge.sh) for the NEAR x ENCODE hackathon. Ranking 7th out of 130+ submissions at the end!
 - ![100%](https://progress-bar.dev/100) Making a small pong game written in **C++** using the **SFML** library.
-- ![100%](https://progress-bar.dev/2) Learning **C#** and **.NET**, maybe for backend work ?
+- ![100%](https://progress-bar.dev/100) Did an 2 month internship in Togo, learning **C#** and **ASP.NET Core** to make an API for a Togolese app.
 - ![50%](https://progress-bar.dev/50) Improving at **Rust** and **systems programming** by working with the [Rust in Action](https://www.manning.com/books/rust-in-action) book.
 - ![45%](https://progress-bar.dev/45) Learning interpreters and getting better at making parsers by working with the [Crafting Interpreters](https://craftinginterpreters.com) book. See my [WIP Go implementation](https://github.com/AnicetNgrt/loxgo) of the Lox tree-walk interpreter.
 - ![20%](https://progress-bar.dev/20) Finishing my online strategy board game project featuring a **Sveltekit**+**TS**+**TailwindCSS** frontend and TBD backend.
