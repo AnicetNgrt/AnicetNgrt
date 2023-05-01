@@ -11,7 +11,8 @@ getting the work done, teaching complex topics and writing about stuff.
   
 ### Language proficiency chart
 
+
 <img
-  height="400"
+  height="200"
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anicetngrt&skills=JavaScript,TypeScript,Rust,Python,HTML,CSS,C%2B%2B,C,Java,Elixir,Svelte&width=640"
 />
