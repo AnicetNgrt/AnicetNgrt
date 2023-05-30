@@ -9,8 +9,12 @@ getting the work done, teaching complex topics and writing about stuff.
 
 ### Portfolio: https://anicetnougaret.fr
   
-### Language proficiency chart
+### Programming metrics
 
+<img
+  height="200"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=anicetngrt&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 <img
   height="200"
