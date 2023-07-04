@@ -1,11 +1,12 @@
 # About me
 
-My name is Anicet. I'm a 21 year old CS engineering student from Paris, France.
+Computer Science Engineering student at INSA Lyon. 
 
-Since childhood I come up with new ideas and work on my very own creative projects.
+Currently focused on:
+- Building open-source Data Science and Deep Learning software in Rust
+- Tuning, optimizing and visualizing semantic search and topic modeling techniques for Onepoint
 
-My two main skills are programming and art. But I often hear I'm decent at leading and organizing teams and projects,
-getting the work done, teaching complex topics and writing about stuff.
+Also a "one man studio" game programmer and passionate fullstack programmer on my spare time since 2016 with an eye for UX and design.
 
 ### Portfolio: https://anicetnougaret.fr
   
