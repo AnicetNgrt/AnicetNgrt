@@ -3,6 +3,9 @@
 Computer Science Engineering student at INSA Lyon. 
 
 Currently focused on:
+- Learning more about AI ethics, Natural Language Processing, Deep Reinforcement Learning and Spiking Neural Networks at Facultat d'Informatica de Barcelona (UPC) 
+
+Recently still was focused on:
 - Building open-source Data Science and Deep Learning software in Rust
 - Tuning, optimizing and visualizing semantic search and topic modeling techniques for Onepoint
 
