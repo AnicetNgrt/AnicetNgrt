@@ -3,9 +3,13 @@
 Computer Science Engineering student at INSA Lyon. 
 
 Currently focused on:
-- Learning more about AI ethics, Natural Language Processing, Deep Reinforcement Learning and Spiking Neural Networks at Facultat d'Informatica de Barcelona (UPC) 
+- Detecting black holes and binary stars amongst billions of solar systems for the European Space Agency
+- Stealth GenAI x Engineering x 3D project
 
 Recently still was focused on:
+- AI ethics at UPC
+- Review paper on Spiking Neural Networks (still unpublished)
+- Reinforcement Learning "Minecraft-like" agents by hacking Unity hard
 - Building open-source Data Science and Deep Learning software in Rust
 - Tuning, optimizing and visualizing semantic search and topic modeling techniques for Onepoint
 
