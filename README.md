@@ -1,10 +1,8 @@
 # About me
 
-Computer Science Engineering student at INSA Lyon. 
-
 Currently focused on:
 - Detecting black holes and binary stars amongst billions of solar systems for the European Space Agency
-- Stealth GenAI x Engineering x 3D project
+- GenAI x industrial design
 
 Recently still was focused on:
 - AI ethics at UPC
