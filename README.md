@@ -1,10 +1,11 @@
 # About me
 
 Currently focused on:
-- Detecting black holes and binary stars amongst billions of solar systems for the European Space Agency
-- GenAI x industrial design
+- [dedale.dev](https://dedale.dev) Commercial dev tool to help devs understand code
 
 Recently still was focused on:
+- Detecting black holes and binary stars amongst billions of solar systems for the European Space Agency
+- GenAI x industrial design
 - AI ethics at UPC
 - Review paper on Spiking Neural Networks (still unpublished)
 - Reinforcement Learning "Minecraft-like" agents by hacking Unity hard
