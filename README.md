@@ -15,8 +15,6 @@ Recently still was focused on:
 
 Also a "one man studio" game programmer and passionate fullstack programmer on my spare time since 2016 with an eye for UX and design.
 
-### Portfolio: https://anicetnougaret.fr
-  
 ### Programming metrics
 
 <img
