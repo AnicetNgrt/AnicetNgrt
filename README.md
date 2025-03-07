@@ -1,9 +1,10 @@
 # About me
 
 Currently focused on:
-- [dedale.dev](https://dedale.dev) Commercial dev tool to help devs understand code
+- [ariana.dev](https://ariana.dev) A time travel debugger for JS/TS/Python
 
 Recently still was focused on:
+- [dedale.dev](https://dedale.dev) Commercial dev tool to help devs understand code
 - Detecting black holes and binary stars amongst billions of solar systems for the European Space Agency
 - GenAI x industrial design
 - AI ethics at UPC
